@@ -1,4 +1,5 @@
 # myprojects
 This is my first Git repository.
 
-Author - Subham Debnath
+Author - Subham Debnath, software developer
+
